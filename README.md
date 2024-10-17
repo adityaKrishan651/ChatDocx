@@ -1,5 +1,8 @@
 # PDF Text Extraction and Knowledge Base Creation with FAISS and OpenAI Embeddings
 
+## Google Drive Link
+https://drive.google.com/drive/folders/1-XxJpQvPYopeqxU09IhZcsnNQ0xgM7I0?usp=drive_link
+
 ## Table of Contents
 
 - [Overview](#overview)
