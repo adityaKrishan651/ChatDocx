@@ -2,7 +2,7 @@
 
 ### An AI-Powered Document Chat Assistant
 
-## Google Drive Link
+## Google Drive Link(PPT & Video)
 
 https://drive.google.com/drive/folders/1-XxJpQvPYopeqxU09IhZcsnNQ0xgM7I0?usp=drive_link
 
@@ -71,7 +71,7 @@ Whether you're a student, researcher, or professional working with multiple docu
 
 Follow these steps to get **ChatDocx** running on your local machine:
 
-### 1. Clone the Repository
+### Run The Project
 
 ```bash
 git clone https://github.com/yourusername/chatdocx.git
